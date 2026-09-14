@@ -1,0 +1,16 @@
+{
+  "name": "digital-clock-timezone",
+  "version": "1.0.0",
+  "description": "A digital clock displaying current time in different time zones",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "clock",
+    "timezone",
+    "world-clock"
+  ],
+  "author": "",
+  "license": "MIT"
+}
